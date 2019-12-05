@@ -1,0 +1,29 @@
+{
+  "name": "ng-stripe",
+  "version": "0.0.4",
+	"description": "ng-stripe is a simple stripe payment gateway api.",
+  "peerDependencies": {
+    "@angular/common": "^8.2.4",
+    "@angular/core": "^8.2.4"
+  },
+	"dependencies": {
+    "angular-cc-library": "^1.2.5"
+  },
+	"devDependencies": {
+    "angular-cc-library": "^1.2.5"
+  },
+	"author": "Libin Prasanth",
+  "keywords": [
+	  "angular",
+	  "angular 7",
+		"angular 8",
+		"angular 8 stripe",
+		"stripe payment",
+		"stripe payment gateway",
+		"angular 8 payment gateway",
+		"credit card payment"
+	],
+	"whitelistedNonPeerDependencies": [
+	  "angular-cc-library"
+	]
+}
